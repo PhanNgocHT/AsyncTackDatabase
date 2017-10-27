@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RecycleViewExercise</string>
+    <string name="contact_name">Contact name</string>
+    <string name="contact_number">Contact number</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="list_view">ListView</string>
+    <string name="gird_view">GirdView</string>
+    <string name="cancel">Cancel</string>
+</resources>

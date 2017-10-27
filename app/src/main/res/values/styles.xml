@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="Margin">
+        <item name="android:layout_margin">20px</item>
+    </style>
+    <style name="EditText" parent="Margin">
+
+        <item name="android:background">@drawable/shape</item>
+    </style>
+    <style name="Button" parent="Margin">
+        <item name="android:background">@drawable/shape_button</item>
+    </style>
+
+</resources>
